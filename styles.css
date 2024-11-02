@@ -364,7 +364,7 @@ footer .container {
     .footerLogo {
         max-width: 80px;
         align-content: center;
-        gap: 40px;
+        margin-left: 10px;
     }
 
     .footer-links {
