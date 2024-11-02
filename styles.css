@@ -407,4 +407,9 @@ footer .container {
         padding: 7px;
         font-size: 10px;
     }
+
+    #about-us .about-image {
+        margin-left: -40px;
+    }
+
 }
