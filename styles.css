@@ -341,11 +341,11 @@ footer .container {
     }
     
     .btn-secondary {
-        font-size: 10px;
+        font-size: 7px;
     }
 
     .btn-secondary {
-        padding: 7px 7px;
+        padding: 4px 4px;
         background: transparent;
         outline: none;
         cursor: pointer;
@@ -354,6 +354,7 @@ footer .container {
 
     .logo {
         max-width: 65px;
+	margin-left: -10px;
     }
 
     .footer .container {
