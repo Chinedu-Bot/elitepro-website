@@ -377,6 +377,8 @@ footer .container {
     footer p {
         font-size: 11px;
         max-width: 90px;
+	margin-left: 10px;
+	margin-right: -15px;
     }
 
     .info-container h2 {
